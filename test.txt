@@ -1,0 +1,1 @@
+Creating a footnote is easy. \footnote{ An example footnote. } Just write your text as usual \footnote{ By usual we mean the way you write usually} and everytime you need a footnote, include it in your text using the assigned keywords. \footnote{ the keyword is "\footnote" } There you go.
